@@ -1,2 +1,1 @@
-# hello-world-nextjs-app-1
-A simple Next.js app with a Hello World button
+This repository is empty. Any task executed on it should be considered a new capability and needs to be created.
